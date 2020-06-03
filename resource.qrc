@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="img">
+    <file>resource/User-1.png</file>
+    <file>resource/ristekdikti.png</file>
+    <file>resource/Add-1.png</file>
+    <file>resource/Image.png</file>
+    <file>resource/user_mime.png</file>
+    <file>resource/ugm_logo.png</file>
+    <file>resource/folder_mime.png</file>
+    <file>resource/play-video.png</file>
+    <file>resource/information-button.png</file>
+    <file>resource/stop-video.png</file>
+    <file>resource/pause-button.png</file>
+    <file>resource/save-video.png</file>
+    <file>resource/back.png</file>
+    <file>resource/rekam.png</file>
+    <file>resource/clear-button.png</file>
+    <file>resource/exit.png</file>
+    <file>resource/notes.png</file>
+    <file>resource/rotate.png</file>
+    <file>resource/teeth.png</file>
+    <file>resource/user_ico.png</file>
+  </qresource>
+</RCC>
